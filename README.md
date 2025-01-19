@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-  <img align="left" alt="Ron | LinkedIn" width="25px" src="https://images.credly.com/size/340x340/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png" />
- <a href="https://www.credly.com/badges/1dcfc4e4-ecb4-4ece-a5aa-23056b1f5f0a/linked_in_profile">CySA+</a> 
-
-
+- [CySA+](https://www.credly.com/badges/1dcfc4e4-ecb4-4ece-a5aa-23056b1f5f0a/linked_in_profile)
+- [Security+](https://www.credly.com/badges/ede610bf-f804-4677-bd01-2e70f7132873/linked_in_profile)
+- [A+](https://www.credly.com/badges/8b132aa0-a58a-414d-afdb-406fa4fae114/linked_in_profile)
  
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
