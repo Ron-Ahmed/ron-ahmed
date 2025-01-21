@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
+- SC-200 (Expected 2/2025)
 - CySA+
 - Security+
 - A+
