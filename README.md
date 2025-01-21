@@ -5,6 +5,8 @@
 - CySA+
 - Security+
 - A+
+- CCNP-ENCOR
+- CCNA
 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
