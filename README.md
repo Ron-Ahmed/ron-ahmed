@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ron! <br/> <a href="https://www.linkedin.com/in/ronahmed2/">Cybersecurity Professional</a>
+<h1>Hi, I'm Ron! <br/> <a href="https://www.linkedin.com/in/ronahmed2/">IT Professional</a>
 
 <h2>👨‍💻 Certifications:</h2>
 
